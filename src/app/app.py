@@ -4,7 +4,7 @@ import numpy as np
 
 
 from PIL import Image
-test_image = Image.open(r'C:\Users\njvdb\projects\biz_analytics_a_new_app\src\app\test.jpg')
+test_image = Image.open(r'C:\Users\njvdb\projects\fork\src\app\test.jpg')
 st.image(test_image, caption= "Kraftwerk im Sonnenuntergang")
 
 
