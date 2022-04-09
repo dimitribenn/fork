@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/.idea/.idea.iml" filepath="$PROJECT_DIR$/.idea/.idea/.idea.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/fork.iml" filepath="$PROJECT_DIR$/.idea/fork.iml" />
-      <module fileurl="file://$APPLICATION_CONFIG_DIR$/projects/fork2/.idea/fork2.iml" filepath="$APPLICATION_CONFIG_DIR$/projects/fork2/.idea/fork2.iml" />
     </modules>
   </component>
 </project>
