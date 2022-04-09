@@ -56,7 +56,7 @@ st.write(prediction_temp_rounded)
 
 st.subheader("Über das Modell und die Daten")
 
-"Der öffentliche Link zur App: https://share.streamlit.io/dimitribenn/biz_analytics_a_new_app/BA_App_Fork/src/app/app.py"
+"Der öffentliche Link zur App: https://share.streamlit.io/dimitribenn/fork/main/src/app/app.py"
 
 "Das Modell ist ein lineares Regressionsmodell auf Grundlage von 2010 bis 2020. "
 "Es steht ein Datenpunkt pro Jahr zur Verfügung."
